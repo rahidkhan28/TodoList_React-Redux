@@ -10,20 +10,20 @@ To run this project on your local machine, follow these steps:
 3.Install dependencies using npm.
 4.Run the project.
 
-Usage
+# Usage
 Once the installation is complete, you can run the project using the following command:
 -npm run start
 
 This will start the development server and open the todo list application in your default web browser.
 
-Features
+# Features
 • Add tasks to the todo list.
 • Mark tasks as completed.
 • Delete tasks from the todo list.
 • Filter tasks based on their completion status.
 
 
-Technologies Used
+# Technologies Used
 • HTML
 • CSS
 • JavaScript
@@ -32,7 +32,7 @@ Technologies Used
 • Tailwind CSS
 
 
-Contributing
+# Contributing
 Contributions are welcome! Feel free to open a pull request or submit an issue if you find any bugs or have suggestions for improvements.
 
-Thank You.
+# Thank You.
