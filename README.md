@@ -6,8 +6,11 @@ This project is a simple todo list built using HTML, CSS, JavaScript, React, and
 To run this project on your local machine, follow these steps:
 
 1.Clone this repository to your local machine.
+
 2.Navigate into the project directory.
+
 3.Install dependencies using npm.
+
 4.Run the project.
 
 # Usage
@@ -18,17 +21,25 @@ This will start the development server and open the todo list application in you
 
 # Features
 • Add tasks to the todo list.
+
 • Mark tasks as completed.
+
 • Delete tasks from the todo list.
+
 • Filter tasks based on their completion status.
 
 
 # Technologies Used
 • HTML
+
 • CSS
+
 • JavaScript
+
 • React
+
 • Redux
+
 • Tailwind CSS
 
 
